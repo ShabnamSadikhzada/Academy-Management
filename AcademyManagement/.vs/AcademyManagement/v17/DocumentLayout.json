@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shabnamjs\\source\\repos\\AcademyManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75812239-8DB4-4632-A468-87048D36A7BF}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\shabnamjs\\source\\repos\\academymanagement\\academymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75812239-8DB4-4632-A468-87048D36A7BF}|AcademyManagement\\AcademyManagement.csproj|solutionrelative:academymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75812239-8DB4-4632-A468-87048D36A7BF}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\shabnamjs\\source\\repos\\academymanagement\\academymanagement\\businesslogic\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75812239-8DB4-4632-A468-87048D36A7BF}|AcademyManagement\\AcademyManagement.csproj|solutionrelative:academymanagement\\businesslogic\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75812239-8DB4-4632-A468-87048D36A7BF}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\shabnamjs\\source\\repos\\academymanagement\\academymanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75812239-8DB4-4632-A468-87048D36A7BF}|AcademyManagement\\AcademyManagement.csproj|solutionrelative:academymanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\AcademyManagement\\AcademyManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AcademyManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\AcademyManagement\\AcademyManagement\\Models\\Student.cs",
+              "RelativeToolTip": "AcademyManagement\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:19:18.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\AcademyManagement\\AcademyManagement\\BusinessLogic\\StudentServices.cs",
+              "RelativeDocumentMoniker": "AcademyManagement\\BusinessLogic\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\AcademyManagement\\AcademyManagement\\BusinessLogic\\StudentServices.cs",
+              "RelativeToolTip": "AcademyManagement\\BusinessLogic\\StudentServices.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:15:48.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\AcademyManagement\\AcademyManagement\\Program.cs",
+              "RelativeDocumentMoniker": "AcademyManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\AcademyManagement\\AcademyManagement\\Program.cs",
+              "RelativeToolTip": "AcademyManagement\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:11:31.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
